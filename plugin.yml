@@ -1,0 +1,11 @@
+name: PwegoBlocks
+main: com.worldcretornica.pwegoblocks.PwegoBlocks
+version: '0.1'
+author: ZachBora
+depend: [Spout]
+description: >
+             Adds blocks
+commands:
+    pwegoblocks:
+      description: Gives a new block
+      usage: /pwegoblocks id
